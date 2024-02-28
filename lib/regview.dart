@@ -11,6 +11,9 @@ class _RegViewState extends State<RegView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+
+
+      
       backgroundColor: Colors.green,
       body:Center(
        child: ElevatedButton(
